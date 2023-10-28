@@ -5,7 +5,9 @@
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
 <h1 align="center">Hola 👋, mi nombre es Luis A. Guisado</h1>
-**Soy ✨ _Desarrollador de Software_ ✨ aunque me considero `JUNIOR` tengo experiencia (+5 años). Un apasionado del desarrollo, a encontrar soluciones inmediatas a problemas Informáticos
+
+**Soy ✨ _Desarrollador de Software_ ✨ aunque me considero `JUNIOR` tengo experiencia `(+5 AÑOS)`. Un apasionado del desarrollo, a encontrar soluciones inmediatas a problemas Informáticos
+
 <br>
 <br>
 <p></p>
@@ -23,7 +25,7 @@
 ┌──┤ COLABORACIONES ├─────────▰▰▰
 │
 │
-├─▣ <a href="https://puschoft.blogspot.com">Visita mi Blog</a>
+├─▣ <a href="https://puschoft.blogspot.com">BLOG'S PERSONAL</a>
 ├─▣ 🔭 I’m currently working on 
 ├─▣ 🌱 I’m currently learning 
 ├─▣ 👯 I’m looking to collaborate on
@@ -65,7 +67,7 @@
         </td>
         <td width="50%">
          <pre>
-          ┌──┤ COLABORACIONES ├─────────▰▰▰
+          ┌──┤ REPOSITORIOS ├─────────▰▰▰
           │
           │
           ├─▣ <a href="https://puschoft.blogspot.com">Visita mi Blog</a>
