@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/luis-alberto-guisado-622246241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-alberto-guisado-622246241" height="30" width="40" /></a>
 </p>
 <!-- CON IMAGES -->
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="archivos/codigos.gif?raw=true" width="500" height="320" />
  
  <pre>
 ┌──┤ COLABORACIONES ├─────────▰▰▰
@@ -58,18 +58,31 @@
 
 <table>
     <tr>
-        <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/246819874-283e25d6-510a-4f33-ae24-1f57d533462d.png">
-                <img src="https://user-images.githubusercontent.com/8558/246819874-283e25d6-510a-4f33-ae24-1f57d533462d.png" width="100%">
+        <td width="50%">         
+            <a href="archivos/workings.jpg">
+                <img src="archivos/workings.jpg" width="100%">
             </a>
         </td>
         <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/246406488-1b7013b0-36c0-4e8d-90bf-7814d5c8e180.png">
-                <img src="https://user-images.githubusercontent.com/8558/246406488-1b7013b0-36c0-4e8d-90bf-7814d5c8e180.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    
+         <pre>
+          ┌──┤ COLABORACIONES ├─────────▰▰▰
+          │
+          │
+          ├─▣ <a href="https://puschoft.blogspot.com">Visita mi Blog</a>
+          ├─▣ 🔭 I’m currently working on 
+          ├─▣ 🌱 I’m currently learning 
+          ├─▣ 👯 I’m looking to collaborate on
+          ├─▣ 🤔 I’m looking for help with 
+          ├─▣ 💬 Ask me about 
+          ├─▣ 📫 How to reach me: 
+          ├─▣ 😄 Pronouns: 
+          ├─▣ ⚡ Fun fact: 
+          │
+          │
+          └───────────────────────────────▰▰▰
+          </pre>
+         </td>
+    </tr>    
 </table>
 
 
