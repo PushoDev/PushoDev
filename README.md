@@ -12,6 +12,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PushoDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 ## Lenguajes de Programación y Herramientas  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>  
@@ -84,15 +90,6 @@
 
 <br/>  
 
-
-## Estatus en GitHub 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PushoDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PushoDev/PushoDev/output/snake.svg" alt="Snake animation" />
@@ -128,6 +125,16 @@
          </td>
     </tr>    
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PushoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+
+
+<br>
 
 <div align="center">
             <a href="https://paypal.me/pushodev" target="_blank" style="display: inline-block;">
