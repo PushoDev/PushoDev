@@ -86,15 +86,19 @@
 
 
 ## Estatus en GitHub 
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PushoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PushoDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PushoDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+###
 
-</td><td valign="top" width="50%">
+<br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushoDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/PushoDev/PushoDev/output/snake.svg" alt="Snake animation" />
 
-</td></tr></table> 
+###
+
 
 <table>
     <tr>
