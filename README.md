@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PushoDev/PushoDev/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/PushoDev/PushoDev/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
