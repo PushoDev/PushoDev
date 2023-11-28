@@ -1,9 +1,8 @@
-
 name: Generate snake game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # ejecutar cada 12 horas
+    - cron: "*/12 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      # Animación del Snake
       - uses: Sutil/snk@master
         id: snake-gif
         with:
@@ -25,4 +24,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
