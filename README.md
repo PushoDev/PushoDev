@@ -2,13 +2,16 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LuffyCubans" alt="@PuSchoft_Dev"/></p>
 
-#### _Read this in [other languages](https://github.com/PushoDev)._ <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.md)</kbd> <kbd>[<img title="English" alt="Inglesa" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.us.md)</kbd>
+>[!NOTE]
+>#### _Read this in [other languages](https://github.com/PushoDev)._ <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.md)</kbd> <kbd>[<img title="English" alt="Inglesa" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.us.md)</kbd>
 
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
 <h1 align="center">Hola 👋, mi nombre es Luis A. Guisado</h1>
 
-**Soy <kbd><img title="Español de Cuba" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cu.svg" width="22"></kbd> ✨ _Desarrollador de Software_ ✨ aunque me considero `JUNIOR` tengo experiencia `(+5 AÑOS)`. Un apasionado del desarrollo, a encontrar soluciones inmediatas a problemas Informáticos 
+>[!IMPORTANT]
+>
+>*Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cu.svg" width="22"></kbd>. Un apasionado del `DESARROLLO`, a encontrar soluciones inmediatas a `PROBLEMAS INFORMÁTICOS` 
 
 <br>
 
