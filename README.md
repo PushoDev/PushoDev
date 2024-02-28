@@ -80,11 +80,15 @@
 <div align="center">PortFolio (En Desarrollo) <a href="https://pushodev.github.io" target="_blank">Pusho.Dev</a></div>
 
 <br>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+ <img src="archivos/github-user-contribution.svg" alt="Snake animation" />
+ 
 
 <br>
 
