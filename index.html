@@ -3,22 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="refresh" content="0;url=https://pushodev.github.io/PushoDev/">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Estilos -->
-  
-    <!-- Titulo del Portfolio -->    
     <title>Pusho.Dev</title>
 </head>
 <body>
-  <!-- Cuerpo del Portfolio -->
   <h1>Hola Mundo...</h1>
-  <p>En estos momentos, mi portfolio esta en desarrollo</p>
+  <p>En estos momentos, mi portfolio está en desarrollo</p>
 
-  <!-- Script del Porfolio -->
-    
-    <script>
-        window.location.href = "https://pushodev.github.io/PushoDev/";     
-</script>
+  <script>
+    if (window.location.href.indexOf('pushodev.github.io/pushodev/') > -1) {
+        window.location.href = 'https://pushodev.github.io/PushoDev/';
+    }
+  </script>
 </body>
 </html>
