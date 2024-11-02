@@ -1,3 +1,4 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="right">
   
   <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.md)</kbd> <kbd>[<img title="English" alt="Inglesa" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.us.md)</kbd>
@@ -5,10 +6,10 @@
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=LuffyCubans" alt="@PuSchoft_Dev"/></p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ![ ](archivos/new-cover-Git-Hub.jpg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <div align="center">
 <a href="https://github.com/PushoDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,7 +47,7 @@
 > <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, sea muy bienvenid@ a mi perfil</h1>
 >
  
-Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cu.svg" width="22"></kbd>. Un apasionado de la `TECNOLOGÍA`, y a encontrar soluciones inmediatas a `PROBLEMAS INFORMÁTICOS`, graduado en la `Especialidad de Informática`
+Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cu.svg" width="22"></kbd>. Un apasionado de la `TECNOLOGÍA`, y a encontrar soluciones inmediatas a `PROBLEMAS INFORMÁTICOS`
 
 <br>
 
@@ -166,12 +167,12 @@ Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="
             </a></div>
 <br />
 
->[!IMPORTANT]
-> 🙏 Por favor si le gusta mi perfil, regáleme una estrella
->así me motivo a seguir mejorando y por supuesto compartiendo
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
