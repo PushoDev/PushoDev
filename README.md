@@ -74,14 +74,7 @@ Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="
 <br />
 
 ----
-
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=PushoDev&theme=rose&no-frame=false&no-bg=true&margin-w=4)
-  
-</div>
-
-
+[![An image of @pushodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pushodev)](https://holopin.io/@pushodev)
 
 <br>
 
