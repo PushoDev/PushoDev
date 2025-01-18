@@ -73,8 +73,6 @@ Soy ✨ _Desarrollador de Software_ ✨ <kbd><img title="Español de Cuba" alt="
 </div>
 <br />
 
-----
-[![An image of @pushodev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pushodev)](https://holopin.io/@pushodev)
 
 <br>
 
