@@ -24,29 +24,30 @@ const Welcome = () => {
   }, []);
 
   const { scrollYProgress } = useScroll({ target: ref });
-  const scale = useTransform(scrollYProgress, [0, 1], [0, 10]);
+  const maskImage = useTransform(scrollYProgress, [0, 1], ["4000%", "50%"]);
+  const scale = useTransform(scrollYProgress, [0, 0.3], [1.2, 1]);
 
   useEffect(() => {
-    const unsubscribe = scrollYProgress.on("change", (v) => {
+    scrollYProgress.on("change", (v) => {
       console.log("scrollYProgress:", v.toFixed(3));
     });
-    return () => unsubscribe();
   }, [scrollYProgress]);
-
-  console.log(background);
 
   return (
     <ReactLenis root options={{ autoRaf: false }} ref={lenisRef}>
-      <div className="relative h-[200vh] w-full overflow-hidden" ref={ref}>
+      <div
+        className="relative h-[200vh] w-full bg-black overflow-hidden"
+        ref={ref}
+      >
         <motion.div
           className="w-full h-screen fixed inset-0 z-0"
           style={{
             background: `url(${background})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center",
+            scale: scale,
             maskImage: `url(${maskFile})`,
-            maskSize: "cover",
             maskPosition: "center",
+            maskRepeat: "no-repeat",
+            maskSize: maskImage,
           }}
         ></motion.div>
       </div>
