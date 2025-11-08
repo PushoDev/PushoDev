@@ -1,11 +1,16 @@
 <div align="right">
-  <kbd>[<img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.md)</kbd>
-  <kbd>[<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.en.md)</kbd>
+  <kbd style="margin: 2px; padding: 4px; border-radius: 4px;">
+    <a href="README.md"><img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22"></a>
+  </kbd>
+  <kbd style="margin: 2px; padding: 4px; border-radius: 4px;">
+    <a href="README.en.md"><img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></a>
+  </kbd>
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=PushoDev&color=blue&style=for-the-badge" alt="@PushoDev"/></p>
 
 ![cover](archivos/new-cover-Git-Hub.jpg)
+
 
 ---
 
@@ -139,3 +144,10 @@ I work with **Docker, Kubernetes, Firebase, and GitHub Actions**, along with dat
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
+
+## ✍️ Latest Technical Articles
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+> 📚 [View all my articles on Dev.to](https://dev.to/pushodev)
