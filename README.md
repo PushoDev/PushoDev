@@ -1,6 +1,6 @@
 <div align="right">
-  <kbd>[<img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.md)</kbd>
-  <kbd>[<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](README.en.md)</kbd>
+  <kbd><a href="README.md"><img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22"></a></kbd>
+  <kbd><a href="README.en.md"><img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></a></kbd>
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=PushoDev&color=blue&style=for-the-badge" alt="@PushoDev"/></p>
@@ -139,3 +139,10 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
+
+## ✍️ Últimos Artículos Técnicos
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+> 📚 [Ver todos mis artículos en Dev.to](https://dev.to/pushodev)
