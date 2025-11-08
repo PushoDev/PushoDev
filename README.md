@@ -132,7 +132,7 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 
 ## 🐍 Snake de Desarrollo
 
-![Snake animation](https://github.com/PushoDev/PushoDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PushoDev/PushoDev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
