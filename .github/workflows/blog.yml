@@ -1,0 +1,28 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Update blog posts from Dev.to
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://dev.to/feed/pushodev"
+          commit_message: "docs: 📝 Update latest blog posts"
+          max_post_count: 5
+          template: "<!-- BLOG:START -->${{#each entries}}• <a href='${{url}}' target='_blank'>${{title}}</a> - ${{published}}</br>${{/each}}<!-- BLOG:END -->"
