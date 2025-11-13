@@ -111,7 +111,7 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 
 ## 🧩 Proyectos Destacados
 
-- 🔹 [**FastAPI + React Dashboard**](https://github.com/PushoDev/fastapi-react-dashboard) – Panel administrativo con autenticación y estadísticas.  
+- 🔹 [**FastAPI + Nuxt Dashboard**](https://github.com/PushoDev/sistema.gestion-fast) – Panel administrativo con autenticación y estadísticas.  
 - 🔹 [**Sistema de Gestión Hospitalaria (Django)**](#) – Solución completa para manejo de pacientes y personal.  
 - 🔹 [**E-commerce Multivendedor (Laravel + Vue.js)**](#) – Plataforma escalable y segura.  
 - 🔹 [**App Móvil Flutter + Firebase**](#) – Aplicación en tiempo real con chat y notificaciones.  
