@@ -116,7 +116,7 @@ I work with **Docker, Kubernetes, Firebase, and GitHub Actions**, along with dat
 
 ## 🧩 Featured Projects
 
-- 🔹 [**FastAPI + Nuxt Dashboard**](https://github.com/PushoDev/sistema.gestion-fast) – Admin panel with authentication and statistics.  
+- 🔹 [**FastAPI + React & Typescripts Dashboard**](https://github.com/PushoDev/sistema.gestion-fast) – Admin panel with authentication and statistics.  
 - 🔹 [**Hospital Management System (Django)**](#) – Complete solution for patient and staff management.  
 - 🔹 [**Multi-vendor E-commerce (Laravel + Vue.js)**](#) – Scalable and secure platform.  
 - 🔹 [**Flutter Mobile App + Firebase**](#) – Real-time application with chat and notifications.  
