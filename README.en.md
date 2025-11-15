@@ -116,11 +116,13 @@ I work with **Docker, Kubernetes, Firebase, and GitHub Actions**, along with dat
 
 ## 🧩 Featured Projects
 
+- 🔹 [**Portfolio React & TypeScript + Tailwindcss**](https://github.com/PushoDev/pushodev-portfolio) – Personal Portfolio.  
 - 🔹 [**FastAPI + React & Typescripts Dashboard**](https://github.com/PushoDev/sistema.gestion-fast) – Admin panel with authentication and statistics.  
-- 🔹 [**Hospital Management System (Django)**](#) – Complete solution for patient and staff management.  
-- 🔹 [**Multi-vendor E-commerce (Laravel + Vue.js)**](#) – Scalable and secure platform.  
-- 🔹 [**Flutter Mobile App + Firebase**](#) – Real-time application with chat and notifications.  
-
+- 🔹 [**Sistema de Gestión de Almacenes (Laravel + Reactsx)**](https://github.com/PushoDev/proyecto-inventario) – Complete solution for product and warehouse management.  
+- 🔹 [**E-commerce Multivendedor (WordPress)**](https://golfitoshop.com) – Scalable and secure platform.  
+- 🔹 [**App Móvil Flutter + Firebase**](#) – Real-time application with chat and notifications.
+- 🔹 [**Drone Med (Nest + Sqlite)**](https://github.com/PushoDev/drones-api) - Drone for transporting medicines
+  
 > 💡 Discover more in my [GitHub repositories](https://github.com/PushoDev?tab=repositories).
 
 ---
