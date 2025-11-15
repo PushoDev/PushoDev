@@ -116,7 +116,7 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 - 🔹 [**Sistema de Gestión de Almacenes (Laravel + Reactsx)**](https://github.com/PushoDev/proyecto-inventario) – Solución completa para manejo de productos y almacenes (Maqueta).  
 - 🔹 [**E-commerce Multivendedor (WordPress)**](https://golfitoshop.com) – Plataforma escalable y segura.  
 - 🔹 [**App Móvil Flutter + Firebase**](#) – Aplicación en tiempo real con chat y notificaciones.
-- 🔹 [**Drone Med (Nest + Sqlite)**](https://github.com/PushoDev/drones-api) – Api Rest Full para Drones de transporte medicamentos.  
+- 🔹 [**Drone Med (Nest + PostgreSQL's)**](https://github.com/PushoDev/drones-api) – Api Rest Full para Drones de transporte medicamentos.  
 
 > 💡 Descubre más en mis [repositorios de GitHub](https://github.com/PushoDev?tab=repositories).
 
