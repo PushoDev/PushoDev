@@ -1,20 +1,23 @@
-## 💻 Desarrollo de software
-- Desarrollo de aplicaciones de escritorio
-- Desarrollo de aplicaciones móviles
-- Desarrollo de sitios web
-- Desarrollo de sistemas web
+## 💻 Desarrollo Full Stack
+- Desarrollo de aplicaciones web modernas con React, Vue.js y TypeScript
+- Backend robusto con Python (FastAPI, Django), PHP (Laravel) y Node.js
+- Aplicaciones móviles nativas e híbridas con Flutter
+- Integración de APIs RESTful y microservicios
 
-## 🔧 Personalización de software
-- Personalización de aplicaciones existentes
-- Creación de plugins y complementos
-- Mejoras en el rendimiento y la escalabilidad
+## 🔧 Arquitectura & DevOps
+- Diseño de arquitecturas escalables con Docker y Kubernetes
+- Implementación de CI/CD con GitHub Actions
+- Gestión de bases de datos (MySQL, PostgreSQL, MongoDB)
+- Integración con Firebase y servicios en la nube
 
-## 🔩 Mantenimiento de software
-- Solución de problemas técnicos
-- Actualizaciones de seguridad y corrección de errores
-- Mejora de la funcionalidad y el rendimiento
+## 🎨 Experiencia de Usuario
+- Interfaces modernas y responsivas con TailwindCSS y frameworks actuales
+- Desarrollo centrado en el usuario con enfoque en usabilidad
+- Optimización de rendimiento y SEO
+- Diseño de componentes reutilizables y mantenibles
 
-## 💡 Consultoría de tecnología
-- Análisis de necesidades y recomendaciones de tecnología
-- Asesoramiento sobre la adopción de nuevas tecnologías
-- Desarrollo de estrategias de tecnología a largo plazo
+## 🤖 Consultoría & Soluciones
+- Análisis de requerimientos y recomendaciones tecnológicas
+- Estrategias de implementación y migración de sistemas
+- Asesoramiento en tecnologías emergentes y mejores prácticas
+- Soluciones personalizadas para negocio específicos
