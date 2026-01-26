@@ -28,6 +28,7 @@
   <p align="left">
   <a href="https://linkedin.com/in/luis-alberto-guisado-pushodev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bethocubans1990@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://whyphp.dev"><img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat-square&labelColor=18181b" alt="Why PHP in 2026"></a>
   </p>
   
   </td>
