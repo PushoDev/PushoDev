@@ -9,7 +9,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=PushoDev&color=blue&style=for-the-badge" alt="@PushoDev"/></p>
 
-![cover](archivos/new-cover-Git-Hub.jpg)
+![cover](archivos/poster-new.png)
 
 
 ---
