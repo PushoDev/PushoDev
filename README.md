@@ -12,48 +12,41 @@
 <table align="center">
   <tr>
     <td width="60%" valign="top">
-      
+
   <h2>👋 ¡Hola! Soy <b>PushoDev (Luis Alberto Guisado)</b></h2>
-  <p>
-  💻 <b>Desarrollador de Software Full Stack</b> con experiencia en el desarrollo de aplicaciones web y móviles modernas.  
-  Apasionado por la <b>tecnología, el diseño limpio y la eficiencia del código</b>.  
-  Combino el arte del frontend con la lógica del backend para crear soluciones digitales robustas, escalables y centradas en el usuario.  
-  </p>
-  <p>
-  🚀 Mi objetivo es seguir creciendo como desarrollador y colaborar en equipos innovadores que busquen marcar la diferencia.  
-  <br>  
-  🌍 Actualmente me enfoco en proyectos con <b>Python, React, Laravel, FastAPI y Flutter</b>.
-  </p>
+  <p>💻 <b>Desarrollador Fullstack con 8+ años de experiencia</b> construyendo sistemas web en producción: un marketplace, un ERP/POS multi-almacén y aplicaciones móviles y de escritorio. Trabajo con <b>Laravel, React, Python (Django/FastAPI) y .NET</b>, y mi entorno de día a día es <b>Linux con Podman</b>.</p>
+  <p>⛓️ Estoy dando el paso de <b>Fullstack a Fullstack Blockchain</b>: aprendo Solidity y Foundry, e integro contratos con Laravel y React. Todavía en formación; los proyectos Web3 de mi portfolio son ideas, no productos terminados.</p>
+  <p>🌍 <b>Disponible para trabajo remoto</b>. Escribo desde Cuba (UTC-5) y la <b>zona horaria es negociable</b>: me adapto al horario de tu equipo.</p>
 
   <p align="left">
+  <a href="https://pushodev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pushodev.vercel.app-22d3ee?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/luis-alberto-guisado-pushodev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bethocubans1990@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://whyphp.dev"><img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat-square&labelColor=18181b" alt="Why PHP in 2026"></a>
   </p>
-  
+
   </td>
   <td width="40%" align="center">
-    <img src="https://github.com/PushoDev/PushoDev/blob/main/archivos/pushodev.png" width="250" alt="PushoDev" style="border-radius: 15px;"/>
+    <img src="archivos/pushodev-mascotas.png" width="250" alt="PushoDev con las mascotas de GolfitoShop y DayClosure" style="border-radius: 15px;"/>
   </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">💻 Ingeniero Full Stack | Python • Laravel • React • FastAPI • Flutter | Construyendo Aplicaciones Web y Móviles Escalables</h3>
+<h3 align="center">💻 Ingeniero Fullstack | Laravel • React • Python • .NET | Sistemas en producción · Trabajo remoto</h3>
 
 ---
 
 ## 🌟 Acerca de mí
 
-> *"Transformando ideas en soluciones digitales escalables a través de código limpio y tecnologías modernas."*
+> *Transformando ideas en soluciones digitales escalables a través de código limpio y tecnologías modernas.*
 
-Soy un **Desarrollador de Software Full Stack** con experiencia en la creación de aplicaciones web y móviles escalables.  
-Domino **Python, PHP, JavaScript, TypeScript, React, Vue.js, Laravel, Django y FastAPI**, combinando backends sólidos con interfaces modernas y funcionales.  
-Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de datos como **MySQL, PostgreSQL y MongoDB**.  
+Soy fundador de **GolfitoShop** (marketplace local en producción) y desarrollo **sistemas a medida** para negocios reales: ventas, inventario multi-almacén, cierres de caja y bots de Telegram.  
+Trabajo con **PHP, Laravel, Python, TypeScript, React, Django, FastAPI y .NET**, con **MySQL, PostgreSQL y MongoDB**, y despliego con **Docker/Podman y GitHub Actions**.  
+También construyo apps móviles con **React Native + Expo** y de escritorio con **Tauri**.
 
-🌱 Apasionado por aprender continuamente, compartir conocimientos y contribuir a proyectos de código abierto.  
-⚡ *Mi meta: crecer profesionalmente y aportar en equipos tecnológicos de alto impacto.*
+🌱 Me apasiona aprender, compartir lo que sé y mantener los sistemas simples y fiables.  
+🎓 Grado en Ingeniería (Universidad de Granma, 2018–2022).
 
 ---
 
@@ -67,59 +60,71 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushoDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PushoDev&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
----
-
 ## 🚀 Tecnologías
 
 <div align="center">
 
-### 🖥️ Frontend  
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS"/>
 
-### ⚙️ Backend  
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="48" alt="Django"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/></a>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel"/>
+<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=django" width="48" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/>
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET"/>
 
-### 🗄️ Bases de datos  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/></a>
+### 🗄️ Bases de datos
+<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/>
 
-### 🧰 DevOps / Herramientas  
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
+### 🧰 DevOps / Herramientas
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="40" alt="Podman"/>
+
+### 📱 Móvil y escritorio
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=tauri" width="48" alt="Tauri"/>
+<img src="https://skillicons.dev/icons?i=rust" width="48" alt="Rust"/>
+
+### ⛓️ Blockchain · aprendiendo
+<img src="https://skillicons.dev/icons?i=solidity" width="48" alt="Solidity"/>
+<img src="https://skillicons.dev/icons?i=ethereum" width="48" alt="Ethereum"/>
 
 </div>
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Proyectos destacados
 
-- 🔹 [**Portfolio React & TypeScript + Tailwindcss**](https://github.com/PushoDev/pushodev-portfolio) – Portfolio Personal.  
-- 🔹 [**FastAPI + React & Typescripts Dashboard**](https://github.com/PushoDev/sistema.gestion-fast) – Panel administrativo con autenticación y estadísticas.  
-- 🔹 [**Sistema de Gestión de Almacenes (Laravel + Reactsx)**](https://github.com/PushoDev/proyecto-inventario) – Solución completa para manejo de productos y almacenes (Maqueta).  
-- 🔹 [**E-commerce Multivendedor (WordPress)**](https://golfitoshop.com) – Plataforma escalable y segura.  
-- 🔹 [**App Móvil Flutter + Firebase**](#) – Aplicación en tiempo real con chat y notificaciones.
-- 🔹 [**Drone Med (Nest + PostgreSQL's)**](https://github.com/PushoDev/drones-api) – Api Rest Full para Drones de transporte medicamentos.  
+- 🔹 [**GolfitoShop**](https://golfitoshop.posglorietashop.com) – Marketplace local de Granma (Laravel + React + PostgreSQL). **Fundador · en producción.**
+- 🔹 **almacen.tienda** – ERP/POS multi-almacén con roles, cierres de caja y conciliación. **En producción** (repositorio privado).
+- 🔹 **DayClosure** – ERP/POS de escritorio y móvil, sin conexión (Tauri + React). **En desarrollo.**
+- 🔹 [**Re & Re**](https://github.com/PushoDev/re-remesas) – Remesas y recargas (Django + DRF / React). **Entregado.**
+- 🔹 [**Portfolio React + TypeScript + Tailwind**](https://github.com/PushoDev/pushodev-portfolio) – Bilingüe ES/EN, en [pushodev.vercel.app](https://pushodev.vercel.app).
+- 🔹 [**Dashboard FastAPI + React**](https://github.com/PushoDev/sistema.gestion-fast) – Panel administrativo con autenticación y estadísticas.
+- 🔹 [**Drone Med (NestJS + PostgreSQL)**](https://github.com/PushoDev/drones-api) – API REST para drones de transporte de medicamentos.
+- 🔹 [**Blog cultural**](https://github.com/PushoDev/blog-cultural-manzanillo) – Sitio de contenido cultural.
 
-> 💡 Descubre más en mis [repositorios de GitHub](https://github.com/PushoDev?tab=repositories).
+> 💡 Descubre más en mi [portfolio](https://pushodev.vercel.app) y mis [repositorios de GitHub](https://github.com/PushoDev?tab=repositories).
 
 ---
 
@@ -133,7 +138,7 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 
 ---
 
-## 🐍 Snake de Desarrollo
+## 🐍 Snake de desarrollo
 
 ![Snake animation](https://github.com/PushoDev/PushoDev/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -143,7 +148,7 @@ Trabajo con **Docker, Kubernetes, Firebase y GitHub Actions**, junto a bases de 
 
 ---
 
-## ✍️ Últimos Artículos Técnicos
+## ✍️ Últimos artículos técnicos
 
 <!-- BLOG:START -->
 <!-- BLOG:END -->

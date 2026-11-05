@@ -16,17 +16,21 @@ Descripción: Panel administrativo con autenticación y estadísticas desarrolla
 
 Descripción: Solución completa para manejo de productos y almacenes construida con Laravel en el backend y React en el frontend, ideal para control de inventarios.
 
-## [E-commerce Multivendedor (WordPress)](https://golfitoshop.com)
+## [GolfitoShop](https://golfitoshop.posglorietashop.com)
 
-![E-commerce Platform](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80)
+Descripción: Marketplace local de Granma que conecta negocios y emprendimientos con clientes (encontrar → WhatsApp → vender). Desarrollado con Laravel, React, Inertia y PostgreSQL. Fundador, en producción.
 
-Descripción: Plataforma escalable y segura para comercio electrónico multivendedor desarrollada sobre WordPress, con funcionalidades avanzadas de gestión de productos y usuarios.
+## almacen.tienda
 
-## [App Móvil Flutter + Firebase](https://github.com/PushoDev/flutter-app)
+Descripción: ERP/POS multi-almacén en producción, con roles de acceso, cierres de caja y conciliación (repositorio privado).
 
-![Flutter Mobile App](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80)
+## DayClosure
 
-Descripción: Aplicación móvil en tiempo real con chat y notificaciones desarrollada con Flutter y backend en Firebase para experiencias móviles interactivas.
+Descripción: ERP/POS de escritorio y móvil, sin conexión, para pequeños negocios, con Tauri (Rust) y React. En desarrollo.
+
+## [Re & Re](https://github.com/PushoDev/re-remesas)
+
+Descripción: Aplicación de remesas y recargas desarrollada con Django + DRF y React + Vite. Entregada.
 
 ## [Drone Med (Nest + PostgreSQL)](https://github.com/PushoDev/drones-api)
 

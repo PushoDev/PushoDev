@@ -4,7 +4,7 @@ Desarrollador Fullstack con sólida experiencia en Laravel, React y Python (Fast
 ## 🎓 Educación
 
 ### Universidad de Granma, Cuba
-- Licenciatura en Informática, 2025 (en curso)
+- Grado en Ingeniería, 2018–2022
 - Formación en ciencias de la computación, desarrollo de software y arquitectura de sistemas
 
 ### IPI Rubén Bravo Álvarez, Cuba
@@ -40,10 +40,11 @@ Desarrollador Fullstack con sólida experiencia en Laravel, React y Python (Fast
 
 ## 💻 Habilidades
 
-- 💻 Laravel, PHP, React, TypeScript, Python, FastAPI, Django, NestJS
+- 💻 Laravel, PHP, React, TypeScript, Python, FastAPI, Django, NestJS, .NET
 - 💻 MySQL, PostgreSQL, WordPress, WooCommerce
-- 💻 Vue.js, Node.js, Flutter, Dart, Firebase, TailwindCSS
-- 💻 Docker, Kubernetes, Git, GitHub, GitHub Actions, Linux
+- 💻 Vue.js, Node.js, React Native, Expo, Tauri, Firebase, TailwindCSS
+- 💻 Docker, Podman, Kubernetes, Git, GitHub, GitHub Actions, Linux
+- 💻 En aprendizaje: Solidity, Foundry (Blockchain)
 - 💻 APIs REST, CI/CD, Postman, integración de sistemas
 
 ## 🌎 Idiomas
