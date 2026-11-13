@@ -161,6 +161,9 @@ También construyo apps móviles con **React Native + Expo** y de escritorio con
 ## ✍️ Últimos artículos técnicos
 
 <!-- BLOG:START -->
+<table align="center">
+<tr><td align="center" valign="top" width="340"><a href="https://dev.to/pushodev/add-a-living-pixel-art-koi-to-your-github-profile-readme-in-5-minutes-1827"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx08sjr8d5204cmmwh28v.jpg" width="320" alt="Add a living pixel-art koi to your GitHub profile README (in 5 minutes)"/></a><br/><a href="https://dev.to/pushodev/add-a-living-pixel-art-koi-to-your-github-profile-readme-in-5-minutes-1827"><b>Add a living pixel-art koi to your GitHub profile README (in 5 minutes)</b></a><br/><sub>2026-11-13</sub></td></tr>
+</table>
 <!-- BLOG:END -->
 
 > 📚 [Ver todos mis artículos en Dev.to](https://dev.to/pushodev)
