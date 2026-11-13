@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=PushoDev&color=blue&style=for-the-badge" alt="@PushoDev"/></p>
 
-![cover](archivos/poster-new.png)
+![cover](archivos/banner-pushodev.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
   <p align="left">
   <a href="https://pushodev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pushodev.vercel.app-22d3ee?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/luis-alberto-guisado-pushodev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/luis-alberto-pushodev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bethocubans1990@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
 
@@ -52,7 +52,7 @@ I also build mobile apps with **React Native + Expo** and desktop apps with **Ta
 
 <div align="center">
   <a href="https://github.com/PushoDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/luis-alberto-guisado-pushodev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/luis-alberto-pushodev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/pushodev"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://hashnode.com/@PushoDev1990"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="https://twitter.com/luisguisado1990"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
