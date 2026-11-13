@@ -1,28 +1,43 @@
+# Shows my latest dev.to articles (with cover image) between the
+# <!-- BLOG:START --> and <!-- BLOG:END --> markers of the READMEs.
+# Uses the public dev.to API through .github/scripts/devto_posts.py.
 name: Update Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 8 * * *"  
+    - cron: "0 8 * * *"
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
+    paths:
+      - .github/workflows/blog.yml
+      - .github/scripts/devto_posts.py
+
+permissions:
+  contents: write
+
+concurrency: blog
 
 jobs:
   update-blog-posts:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Update blog posts from Dev.to
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG"
-          feed_list: "https://dev.to/feed/pushodev"
-          commit_message: "docs: 📝 Update latest blog posts"
-          max_post_count: 5
-          template: "<!-- BLOG:START -->${{#each entries}}• <a href='${{url}}' target='_blank'>${{title}}</a> - ${{published}}</br>${{/each}}<!-- BLOG:END -->"
+
+      - name: Update the article cards from dev.to
+        run: python3 .github/scripts/devto_posts.py
+
+      - name: Commit the READMEs if they changed
+        shell: bash
+        run: |
+          git add README.md README.en.md
+          if git diff --cached --quiet; then
+            echo "Articles unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "docs: update latest blog posts"
+          git pull --rebase --quiet origin main
+          git push --quiet
