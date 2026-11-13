@@ -144,6 +144,16 @@ También construyo apps móviles con **React Native + Expo** y de escritorio con
 
 ---
 
+## 🐟 Mi koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Mi koi de GitHub, redibujado cada noche con mi actividad"/>
+  <br/>
+  <sub>Se redibuja cada noche con mi actividad pública · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>
+
+---
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---

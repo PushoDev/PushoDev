@@ -144,6 +144,16 @@ I also build mobile apps with **React Native + Expo** and desktop apps with **Ta
 
 ---
 
+## 🐟 My koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub koi, redrawn every night from my activity"/>
+  <br/>
+  <sub>Redrawn every night from my public activity · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>
+
+---
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
